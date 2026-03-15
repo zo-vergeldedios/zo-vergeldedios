@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Zo 👋
 
-<!--
-**zo-vergeldedios/zo-vergeldedios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Software Developer based in the Bay Area with a background in information systems and digital marketing.
 
-Here are some ideas to get you started:
+Currently focused on strengthening my JavaScript and full-stack development skills while building real applications and learning how modern web products are developed and improved.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tools & Technologies
+
+JavaScript (ES6+)  
+HTML5 & CSS3  
+React  
+Node.js  
+Next.js  
+Supabase  
+SQL
+Framer
+
+Git • GitHub • PostHog
+Ubuntu • Notion • Google Keep  
+---
+
+## 🚧 Currently Working On
+
+• Building JavaScript projects that focus on DOM interaction and application logic 
+• Deepening my understanding of full-stack web development with React, Node.js, Next.js, and Supabase (PostgreSQL)  
+• Learning how modern web applications track and analyze user behavior in AI-driven products
+---
+
+## 📫 Reach Me
+
+Email: zo.vergeldedios@gmail.com 
+LinkedIn: linkedin.com/in/zovergeldedios/
+Bay Area, California
