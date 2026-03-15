@@ -19,7 +19,8 @@ Git • GitHub • PostHog • Ubuntu • Notion • Google Keep
 
 ## 🚧 Currently Working On
 
-- Building JavaScript projects that focus on DOM interaction and application logic - Deepening my understanding of full-stack web development with React, Node.js, Next.js, and Supabase (PostgreSQL)
+- Building JavaScript projects that focus on DOM interaction and application logic
+- Deepening my understanding of full-stack web development with React, Node.js, Next.js, and Supabase (PostgreSQL)
 - Learning how modern web applications track and analyze user behavior in AI-driven products
 
 ## 📫 Reach Me
