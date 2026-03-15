@@ -25,6 +25,6 @@ Git • GitHub • PostHog • Ubuntu • Notion • Google Keep
 
 ## 📫 Reach Me
 
-Email: zo.vergeldedios@gmail.com 
-LinkedIn: linkedin.com/in/zovergeldedios/
-Bay Area, California
+- Email: zo.vergeldedios@gmail.com
+- LinkedIn: linkedin.com/in/zovergeldedios
+- Bay Area, California
