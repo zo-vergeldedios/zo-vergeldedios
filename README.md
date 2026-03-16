@@ -3,7 +3,7 @@ Hi, I'm Zo 👋<br><br>I'm a Junior Software Developer based in the San Francisc
 
 <br>🛠 Tools <br>• PostHog<br>• Ubuntu<br>• Notion<br>• Google Keep
 
-<br>📫 Reach Me<br>    Email: zo.vergeldedios@gmail.com<br>    Bay Area, California<br>
+<br>📫 Reach Me<br>    Email: zo.vergeldedios@gmail.com<br>    SF Bay Area, California<br>
 
 
 ## 🌐 Socials:
