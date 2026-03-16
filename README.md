@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm Zo 👋<br><br>I'm a Junior Software Developer based in the Bay Area with a background in information systems and digital marketing.<br><br>Currently focused on strengthening my JavaScript and full-stack development skills while building real applications and learning how modern web products are developed and improved.<br>🛠 Tools <br>• PostHog • Ubuntu • Notion • Google Keep<br>🚧 Currently Working On<br><br>    Building JavaScript projects that focus on DOM interaction and application logic<br>    Deepening my understanding of full-stack web development with React, Node.js, Next.js, and Supabase (PostgreSQL)<br>    Learning how modern web applications track and analyze user behavior in AI-driven products<br><br>📫 Reach Me<br><br>    Email: zo.vergeldedios@gmail.com<br>    Bay Area, California<br>
+Hi, I'm Zo 👋<br><br>I'm a Junior Software Developer based in the Bay Area with a background in information systems and digital marketing.<br><br>Currently focused on strengthening my JavaScript and full-stack development skills while building real applications and learning how modern web products are developed and improved.<br><br>🛠 Tools <br>• PostHog • Ubuntu • Notion • Google Keep<br>🚧 Currently Working On<br> • Building JavaScript projects that focus on DOM interaction and application logic<br> • Deepening my understanding of full-stack web development with React, Node.js, Next.js, and Supabase (PostgreSQL)<br>• Learning how modern web applications track and analyze user behavior in AI-driven products<br>
+
+<br>📫 Reach Me<br><br>    Email: zo.vergeldedios@gmail.com<br>    Bay Area, California<br>
 
 
 ## 🌐 Socials:
