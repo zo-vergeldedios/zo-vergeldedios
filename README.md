@@ -10,3 +10,5 @@ Hi, I'm Zo 👋<br><br>I'm a Software Developer based in the San Francisco Bay A
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zovergeldedios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zo.vergeldedios@gmail.com) 
+
+https://www.zovdd.dev/
