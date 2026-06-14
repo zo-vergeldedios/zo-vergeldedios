@@ -5,7 +5,7 @@ Hi, I'm Zo 👋<br><br>I'm a Software Developer based in the San Francisco Bay A
 
 <br>📫 Reach Me
 <br>Email: zo.vergeldedios@gmail.com
-<br>https://www.zovdd.dev/
+<br>Personal Website: https://www.zovdd.dev/
 <br>SF Bay Area, California<br>
 
 # 💻 Tech Stack:
